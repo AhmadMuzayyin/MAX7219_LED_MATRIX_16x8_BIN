@@ -65,14 +65,15 @@ Setelah terhubung ke jaringan WiFi, Anda dapat mengakses antarmuka kontrol denga
 5. Menjadwalkan waktu tampilan on/off
 
 ## 🤝 Kontribusi
-Kontribusi selalu diterima dengan baik! Silakan fork repositori ini, buat perubahan, dan ajukan pull request.
+Kontribusi selalu diterima dengan baik! Silakan fork repositori ini, dan ajukan pull request.
 
 ## 📄 Lisensi
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## 📞 Kontak
 - GitHub: [AhmadMuzayyin](https://github.com/AhmadMuzayyin)
-- Email: muzayyin.dev@gmail.com
+- Email: muzayyin654@gmail.com
+- whatsappp : [6285179695497](https://wa.me/6285179695497)
 
 ---
 
