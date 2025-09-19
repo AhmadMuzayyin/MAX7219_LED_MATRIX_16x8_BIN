@@ -41,18 +41,18 @@ Proyek ini merupakan implementasi LED Matrix 16x8 menggunakan chip MAX7219 denga
 5. Klik Start untuk memulai flashing
 
 ### Konfigurasi WiFi
-1. Setelah flash selesai, ESP32 akan membuat access point dengan nama "LED_Matrix_Setup"
-2. Hubungkan perangkat Anda ke access point tersebut menggunakan password "123456789"
-3. Buka browser dan akses `192.168.4.1`
+1. Setelah flash selesai, ESP32 akan membuat access point dengan nama "UDEV MATRIXLED"
+2. Hubungkan perangkat Anda ke access point tersebut menggunakan password "55555555"
+3. Buka browser dan akses `192.168.1.1`
 4. Masukkan informasi WiFi rumah Anda untuk menghubungkan perangkat ke jaringan
 
 ## 📸 Preview
 
 ### Tampilan Web Interface
-![Setting Interface](preview/setting.jpg)
+<img src="preview/setting.jpg" alt="Setting Interface" width="200" />
 
 ### Demo Running Display
-![Display Demo](preview/display.gif)
+<img src="preview/display.gif" alt="Display Demo" width="200" />
 
 ## 🔧 Pengaturan
 
