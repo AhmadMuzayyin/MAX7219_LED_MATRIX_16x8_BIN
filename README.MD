@@ -52,7 +52,7 @@ Proyek ini merupakan implementasi LED Matrix 16x8 menggunakan chip MAX7219 denga
 ![Setting Interface](preview/setting.jpg)
 
 ### Demo Running Display
-![Display Demo](preview/display.mp4)
+![Display Demo](preview/display.gif)
 
 ## 🔧 Pengaturan
 
